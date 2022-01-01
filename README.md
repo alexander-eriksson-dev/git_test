@@ -1,3 +1,3 @@
-# git_test
-Testing on The Odin Project
-Hello Odin!
+# Git test
+
+Git repo for testing on [The Odin Project](www.theodinproject.com)
